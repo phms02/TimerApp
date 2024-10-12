@@ -14,7 +14,7 @@
 
 2. So, you must clone this repository to your machine:
     ```bash
-    git clone https://github.com/phms02/timer-app.git
+    git clone https://github.com/phms02/TimerApp.git
     ```
 3. Then, you must navigate to the project's root directory:
     ```bash
